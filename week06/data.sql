@@ -1,7 +1,7 @@
 -- VUA-SEN307 Database Systems - Week 6 Practical
 -- Lab 4: Data Manipulation Language (INSERT, UPDATE, DELETE)
 -- Student: Paul Kelechi
--- Matric No.: VUG/SEN/24/12934
+-- Matric No.: VUG/SEN/22/8132
 --
 -- IMPORTANT:
 -- This is a record of the statements used to populate the Week 6 database.
@@ -12,7 +12,7 @@
 -- Subqueries are used for department, course, lecturer and student IDs so
 -- the script does not depend on AUTO_INCREMENT values starting at 1.
 
-USE sen307_VUG_SEN_24_12934;
+USE sen307_VUG_SEN_22_8132;
 
 -- =========================================================
 -- PART 1: DEPARTMENTS
