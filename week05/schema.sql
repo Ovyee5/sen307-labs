@@ -1,9 +1,9 @@
 -- VUA-SEN307 Database Systems | Week 5 Practical Lab 3
--- Student: Paul Kelechi | Matric: VUG/SEN/24/12934
+-- Student: Anzaku Ovye | Matric: VUG/SEN/22/8132
 -- Database name follows the Week 4 naming convention.
 
-CREATE DATABASE IF NOT EXISTS sen307_VUG_SEN_24_12966;
-USE sen307_VUG_SEN_24_12966;
+CREATE DATABASE IF NOT EXISTS sen307_VUG_SEN_22_8132;
+USE sen307_VUG_SEN_22_8132;
 
 CREATE TABLE Department (
     dept_id INT PRIMARY KEY AUTO_INCREMENT,
