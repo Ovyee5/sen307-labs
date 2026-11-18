@@ -1,6 +1,6 @@
 -- VUA-SEN307 Week 5: Constraint tests
 -- Run each intentionally failing statement ONE AT A TIME.
-USE sen307_VUG_SEN_24_12966;
+USE sen307_VUG_SEN_22_8132;
 
 -- 1. NOT NULL violation
 INSERT INTO Department (dept_name) VALUES (NULL);
