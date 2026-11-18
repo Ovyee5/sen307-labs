@@ -1,12 +1,12 @@
 -- VUA-SEN307 Database Systems
 -- Week 7 Practical - Lab 5: Querying Data
--- Student: Paul Kelechi
--- Matric Number: VUG/SEN/24/12934
+-- Student: ANZAKU OVYE
+-- Matric Number: VUG/SEN/22/8132
 --
 -- Run this script in MySQL Workbench.
 -- It uses the database created and populated during Week 6.
 
-USE sen307_VUG_SEN_24_12934;
+USE sen307_VUG_SEN_22_8132;
 
 
 -- =========================================================
